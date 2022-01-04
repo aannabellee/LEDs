@@ -6,7 +6,7 @@
 # various animations on a strip of NeoPixels.
 
 import time
-
+import colorsys
 import argparse
 
 # LED strip configuration:
